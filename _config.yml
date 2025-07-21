@@ -1,0 +1,6 @@
+title: TamJai AI Jeh Jeh
+description: A real-world LLM project for Hong Kong's food scene
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
